@@ -1,6 +1,6 @@
 # Hotel Reservation System For React
 
-This project was generated with React(17.0.2)
+This project was generated with React(17.0.2)/MUI/Fomik/YUP/recoil, etc.
 
 ## Library
 "@date-io/date-fns": "^1.3.13"<br/>
