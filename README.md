@@ -27,3 +27,26 @@ Run `npm install`
 
 Run `npm start` for a dev server. Navigate to `http://localhost:3000`. The app will automatically reload if you change any of the source files.
 
+## UI
+# Dashboard
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen1.png)
+
+There are search and list of reservations
+
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen2.png)
+You can find by name or email.
+
+# Detail
+Add reservation
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen3.png)
+
+
+Update reservation
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen4.png)
+
+If you click the delete button, the reservation is deleted.
+
+# Example
+Insert Information
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen5.png)
+![Settings Window](https://github.com/KJosephDev/HotelReservationSystemReact/blob/main/screen/screen6.png)
